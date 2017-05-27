@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=C33 Old DesignItemId=C_10UF New DesignItemId=C+_10UF_B
+Change Component DesignItemId : Designator=C34 Old DesignItemId=C_10UF New DesignItemId=C+_10UF_B
+Change Component DesignItemId : Designator=C38 Old DesignItemId=C_10UF New DesignItemId=C+_10UF_B
+Change Component Footprint: Designator=C33 Old Footprint=C_0603 New Footprint=AVX_B_3528-21
+Change Component Footprint: Designator=C34 Old Footprint=C_0603 New Footprint=AVX_B_3528-21
+Change Component Footprint: Designator=C38 Old Footprint=C_0603 New Footprint=AVX_B_3528-21
+Change Component Comment : Designator=C33 Old Comment=C_10UF New Comment=C+_10UF_B
+Change Component Comment : Designator=C34 Old Comment=C_10UF New Comment=C+_10UF_B
+Change Component Comment : Designator=C38 Old Comment=C_10UF New Comment=C+_10UF_B

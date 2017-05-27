@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=3V3 Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=5V_USB Pin=J5-5
+Removed Pin From Net: NetName=3V3 Pin=J45-1
+Removed Pin From Net: NetName=3V3_8782 Pin=J45-2
+Removed Pin From Net: NetName=NetC23_2 Pin=R74-1
+Added Pin To Net: NetName=3V3 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=5V_USB Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=3V3_8782 Pin=J45-1
+Added Pin To Net: NetName=3V3 Pin=J45-2
+Added Pin To Net: NetName=NetC23_2 Pin=R74-2
+Added Pin To Net: NetName=NetR74_1 Pin=R74-1
+Added Pin To Net: NetName=NetR74_1 Pin=U18-1
+Added Net: Name=NetR74_1

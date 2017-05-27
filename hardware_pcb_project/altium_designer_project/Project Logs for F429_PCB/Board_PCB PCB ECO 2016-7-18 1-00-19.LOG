@@ -1,0 +1,358 @@
+Added Component: Designator=J40(2X27X2.54MM)
+Added Component: Designator=J41(2X27X2.54MM)
+Added Pin To Net: NetName=3V3 Pin=J40-1
+Added Pin To Net: NetName=3V3 Pin=J40-2
+Added Pin To Net: NetName=GND Pin=J40-3
+Added Pin To Net: NetName=GND Pin=J40-4
+Added Pin To Net: NetName=NetBT1_1 Pin=J40-5
+Added Pin To Net: NetName=NetR18_2 Pin=J40-6
+Added Pin To Net: NetName=NetJ12_1 Pin=J40-7
+Added Pin To Net: NetName=NetJ11_1 Pin=J40-8
+Added Pin To Net: NetName=GND Pin=J40-13
+Added Pin To Net: NetName=GND Pin=J40-47
+Added Pin To Net: NetName=GND Pin=J40-48
+Added Pin To Net: NetName=NetJ4_3 Pin=J41-1
+Added Pin To Net: NetName=NetJ4_5 Pin=J41-2
+Added Pin To Net: NetName=NetJ4_7 Pin=J41-3
+Added Pin To Net: NetName=NetJ4_9 Pin=J41-4
+Added Pin To Net: NetName=NetJ4_13 Pin=J41-5
+Added Pin To Net: NetName=NetC23_2 Pin=J41-6
+Added Pin To Net: NetName=GND Pin=J41-25
+Added Pin To Net: NetName=GND Pin=J41-26
+Added Pin To Net: NetName=GND Pin=J41-53
+Added Pin To Net: NetName=GND Pin=J41-54
+Added Pin To Net: NetName=NetU5_23 Pin=U16--16
+Added Pin To Net: NetName=NetU5_24 Pin=U16--17
+Added Pin To Net: NetName=NetU5_25 Pin=U16--18
+Added Pin To Net: NetName=NetU5_26 Pin=U16--19
+Added Pin To Net: NetName=NetU5_29 Pin=U16--20
+Added Pin To Net: NetName=NetU5_30 Pin=U16--21
+Added Pin To Net: NetName=NetR11_2 Pin=U16--24
+Added Pin To Net: NetName=NetR12_2 Pin=U16--25
+Added Pin To Net: NetName=NetR14_2 Pin=U16--26
+Added Pin To Net: NetName=NetR13_2 Pin=U16--27
+Added Pin To Net: NetName=NetU5_18 Pin=U16--59
+Added Pin To Net: NetName=NetU5_31 Pin=U16--60
+Added Pin To Net: NetName=NetU5_32 Pin=U16--63
+Added Pin To Net: NetName=NetU5_33 Pin=U16--64
+Added Pin To Net: NetName=NetU5_34 Pin=U16--65
+Added Pin To Net: NetName=NetU5_22 Pin=U16--66
+Added Pin To Net: NetName=NetU5_35 Pin=U16--67
+Added Pin To Net: NetName=NetU5_8 Pin=U16--68
+Added Pin To Net: NetName=NetU5_10 Pin=U16--69
+Added Pin To Net: NetName=NetU5_11 Pin=U16--70
+Added Pin To Net: NetName=NetU5_13 Pin=U16--73
+Added Pin To Net: NetName=NetU5_42 Pin=U16--74
+Added Pin To Net: NetName=NetU5_44 Pin=U16--75
+Added Pin To Net: NetName=NetU5_45 Pin=U16--76
+Added Pin To Net: NetName=NetU5_47 Pin=U16--77
+Added Pin To Net: NetName=NetU5_48 Pin=U16--78
+Added Pin To Net: NetName=NetR28_2 Pin=U16--83
+Added Pin To Net: NetName=NetU5_37 Pin=U16--84
+Added Pin To Net: NetName=NetU5_50 Pin=U16--96
+Added Pin To Net: NetName=NetU5_51 Pin=U16--97
+Added Pin To Net: NetName=NetU5_53 Pin=U16--98
+Added Pin To Net: NetName=NetU5_2 Pin=U16--104
+Added Pin To Net: NetName=NetU5_4 Pin=U16--105
+Added Pin To Net: NetName=NetU5_20 Pin=U16--108
+Added Pin To Net: NetName=NetU5_21 Pin=U16--109
+Added Pin To Net: NetName=NetU5_38 Pin=U16--112
+Added Pin To Net: NetName=NetJ12_1 Pin=U16--120
+Added Pin To Net: NetName=NetJ11_1 Pin=U16--121
+Added Pin To Net: NetName=NetU5_5 Pin=U16--142
+Added Pin To Net: NetName=NetU5_7 Pin=U16--143
+Added Pin To Net: NetName=NetU5_17 Pin=U16--160
+Added Pin To Net: NetName=NetU5_15 Pin=U16--169
+Added Pin To Net: NetName=NetU5_39 Pin=U16--170
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetJ40_6
+Added Pin To Net: NetName=NetJ40_9 Pin=J40-9
+Added Pin To Net: NetName=NetJ40_9 Pin=R17-2
+Added Pin To Net: NetName=NetJ40_9 Pin=U16--40
+Added Net: Name=NetJ40_9
+Added Pin To Net: NetName=NetJ40_10 Pin=J40-10
+Added Pin To Net: NetName=NetJ40_10 Pin=U16--8
+Added Net: Name=NetJ40_10
+Added Pin To Net: NetName=NetJ40_11 Pin=J40-11
+Added Pin To Net: NetName=NetJ40_11 Pin=U16--46
+Added Net: Name=NetJ40_11
+Added Pin To Net: NetName=NetJ40_12 Pin=J40-12
+Added Pin To Net: NetName=NetJ40_12 Pin=U16--45
+Added Net: Name=NetJ40_12
+Added Pin To Net: NetName=NetJ40_14 Pin=J40-14
+Added Pin To Net: NetName=NetJ40_14 Pin=U16--101
+Added Net: Name=NetJ40_14
+Added Pin To Net: NetName=NetJ40_15 Pin=J40-15
+Added Pin To Net: NetName=NetJ40_15 Pin=U16--146
+Added Net: Name=NetJ40_15
+Added Pin To Net: NetName=NetJ40_16 Pin=J40-16
+Added Pin To Net: NetName=NetJ40_16 Pin=U16--151
+Added Net: Name=NetJ40_16
+Added Pin To Net: NetName=NetJ40_17 Pin=J40-17
+Added Pin To Net: NetName=NetJ40_17 Pin=U16--11
+Added Net: Name=NetJ40_17
+Added Pin To Net: NetName=NetJ40_18 Pin=J40-18
+Added Pin To Net: NetName=NetJ40_18 Pin=U16--28
+Added Net: Name=NetJ40_18
+Added Pin To Net: NetName=NetJ40_19 Pin=J40-19
+Added Pin To Net: NetName=NetJ40_19 Pin=U16--111
+Added Net: Name=NetJ40_19
+Added Pin To Net: NetName=NetJ40_20 Pin=J40-20
+Added Pin To Net: NetName=NetJ40_20 Pin=U16--12
+Added Net: Name=NetJ40_20
+Added Pin To Net: NetName=NetJ40_21 Pin=J40-21
+Added Pin To Net: NetName=NetJ40_21 Pin=U16--167
+Added Net: Name=NetJ40_21
+Added Pin To Net: NetName=NetJ40_22 Pin=J40-22
+Added Pin To Net: NetName=NetJ40_22 Pin=U16--168
+Added Net: Name=NetJ40_22
+Added Pin To Net: NetName=NetJ40_23 Pin=J40-23
+Added Pin To Net: NetName=NetJ40_23 Pin=U16--173
+Added Net: Name=NetJ40_23
+Added Pin To Net: NetName=NetJ40_24 Pin=J40-24
+Added Pin To Net: NetName=NetJ40_24 Pin=U16--47
+Added Net: Name=NetJ40_24
+Added Pin To Net: NetName=NetJ40_25 Pin=J40-25
+Added Pin To Net: NetName=NetJ40_25 Pin=U16--150
+Added Net: Name=NetJ40_25
+Added Pin To Net: NetName=NetJ40_26 Pin=J40-26
+Added Pin To Net: NetName=NetJ40_26 Pin=U16--154
+Added Net: Name=NetJ40_26
+Added Pin To Net: NetName=NetJ40_27 Pin=J40-27
+Added Pin To Net: NetName=NetJ40_27 Pin=U16--3
+Added Net: Name=NetJ40_27
+Added Pin To Net: NetName=NetJ40_28 Pin=J40-28
+Added Pin To Net: NetName=NetJ40_28 Pin=U16--155
+Added Net: Name=NetJ40_28
+Added Pin To Net: NetName=NetJ40_29 Pin=J40-29
+Added Pin To Net: NetName=NetJ40_29 Pin=U16--116
+Added Net: Name=NetJ40_29
+Added Pin To Net: NetName=NetJ40_30 Pin=J40-30
+Added Pin To Net: NetName=NetJ40_30 Pin=U16--133
+Added Net: Name=NetJ40_30
+Added Pin To Net: NetName=NetJ40_31 Pin=J40-31
+Added Pin To Net: NetName=NetJ40_31 Pin=U16--130
+Added Net: Name=NetJ40_31
+Added Pin To Net: NetName=NetJ40_32 Pin=J40-32
+Added Pin To Net: NetName=NetJ40_32 Pin=U16--131
+Added Net: Name=NetJ40_32
+Added Pin To Net: NetName=NetJ40_33 Pin=J40-33
+Added Pin To Net: NetName=NetJ40_33 Pin=U16--128
+Added Net: Name=NetJ40_33
+Added Pin To Net: NetName=NetJ40_34 Pin=J40-34
+Added Pin To Net: NetName=NetJ40_34 Pin=U16--153
+Added Net: Name=NetJ40_34
+Added Pin To Net: NetName=NetJ40_35 Pin=J40-35
+Added Pin To Net: NetName=NetJ40_35 Pin=U16--4
+Added Net: Name=NetJ40_35
+Added Pin To Net: NetName=NetJ40_36 Pin=J40-36
+Added Pin To Net: NetName=NetJ40_36 Pin=U16--5
+Added Net: Name=NetJ40_36
+Added Pin To Net: NetName=NetJ40_37 Pin=J40-37
+Added Pin To Net: NetName=NetJ40_37 Pin=U16--57
+Added Net: Name=NetJ40_37
+Added Pin To Net: NetName=NetJ40_38 Pin=J40-38
+Added Pin To Net: NetName=NetJ40_38 Pin=U16--110
+Added Net: Name=NetJ40_38
+Added Pin To Net: NetName=NetJ40_39 Pin=J40-39
+Added Pin To Net: NetName=NetJ40_39 Pin=U16--122
+Added Net: Name=NetJ40_39
+Added Pin To Net: NetName=NetJ40_40 Pin=J40-40
+Added Pin To Net: NetName=NetJ40_40 Pin=U16--123
+Added Net: Name=NetJ40_40
+Added Pin To Net: NetName=NetJ40_41 Pin=J40-41
+Added Pin To Net: NetName=NetJ40_41 Pin=U16--85
+Added Net: Name=NetJ40_41
+Added Pin To Net: NetName=NetJ40_42 Pin=J40-42
+Added Pin To Net: NetName=NetJ40_42 Pin=U16--56
+Added Net: Name=NetJ40_42
+Added Pin To Net: NetName=NetJ40_43 Pin=J40-43
+Added Pin To Net: NetName=NetJ40_43 Pin=U16--43
+Added Net: Name=NetJ40_43
+Added Pin To Net: NetName=NetJ40_44 Pin=J40-44
+Added Pin To Net: NetName=NetJ40_44 Pin=U16--44
+Added Net: Name=NetJ40_44
+Added Pin To Net: NetName=NetJ40_45 Pin=J40-45
+Added Pin To Net: NetName=NetJ40_45 Pin=U16--51
+Added Net: Name=NetJ40_45
+Added Pin To Net: NetName=NetJ40_46 Pin=J40-46
+Added Pin To Net: NetName=NetJ40_46 Pin=U16--13
+Added Net: Name=NetJ40_46
+Added Pin To Net: NetName=NetJ40_49 Pin=J40-49
+Added Pin To Net: NetName=NetJ40_49 Pin=U6-13
+Added Pin To Net: NetName=NetJ40_49 Pin=U16--139
+Added Net: Name=NetJ40_49
+Added Pin To Net: NetName=NetJ40_50 Pin=J40-50
+Added Pin To Net: NetName=NetJ40_50 Pin=U6-12
+Added Pin To Net: NetName=NetJ40_50 Pin=U16--140
+Added Net: Name=NetJ40_50
+Added Pin To Net: NetName=NetJ40_51 Pin=J40-51
+Added Pin To Net: NetName=NetJ40_51 Pin=U6-8
+Added Pin To Net: NetName=NetJ40_51 Pin=U16--144
+Added Net: Name=NetJ40_51
+Added Pin To Net: NetName=NetJ40_52 Pin=J40-52
+Added Pin To Net: NetName=NetJ40_52 Pin=U6-11
+Added Pin To Net: NetName=NetJ40_52 Pin=U16--141
+Added Net: Name=NetJ40_52
+Added Pin To Net: NetName=NetJ40_53 Pin=J40-53
+Added Pin To Net: NetName=NetJ40_53 Pin=U6-10
+Added Pin To Net: NetName=NetJ40_53 Pin=U16--117
+Added Net: Name=NetJ40_53
+Added Pin To Net: NetName=NetJ40_54 Pin=J40-54
+Added Pin To Net: NetName=NetJ40_54 Pin=U6-9
+Added Pin To Net: NetName=NetJ40_54 Pin=U16--118
+Added Net: Name=NetJ40_54
+Added Pin To Net: NetName=NetJ41_7 Pin=J41-7
+Added Pin To Net: NetName=NetJ41_7 Pin=R70-2
+Added Pin To Net: NetName=NetJ41_7 Pin=U16--58
+Added Net: Name=NetJ41_7
+Added Pin To Net: NetName=NetJ41_8 Pin=J41-8
+Added Pin To Net: NetName=NetJ41_8 Pin=U5-16
+Added Pin To Net: NetName=NetJ41_8 Pin=U16--32
+Added Net: Name=NetJ41_8
+Added Pin To Net: NetName=NetJ41_9 Pin=J41-9
+Added Pin To Net: NetName=NetJ41_9 Pin=U16--99
+Added Net: Name=NetJ41_9
+Added Pin To Net: NetName=NetJ41_10 Pin=J41-10
+Added Pin To Net: NetName=NetJ41_10 Pin=U16--147
+Added Net: Name=NetJ41_10
+Added Pin To Net: NetName=NetJ41_11 Pin=J41-11
+Added Pin To Net: NetName=NetJ41_11 Pin=U16--134
+Added Net: Name=NetJ41_11
+Added Pin To Net: NetName=NetJ41_12 Pin=J41-12
+Added Pin To Net: NetName=NetJ41_12 Pin=U16--92
+Added Net: Name=NetJ41_12
+Added Pin To Net: NetName=NetJ41_13 Pin=J41-13
+Added Pin To Net: NetName=NetJ41_13 Pin=U16--115
+Added Net: Name=NetJ41_13
+Added Pin To Net: NetName=NetJ41_14 Pin=J41-14
+Added Pin To Net: NetName=NetJ41_14 Pin=U16--34
+Added Net: Name=NetJ41_14
+Added Pin To Net: NetName=NetJ41_15 Pin=J41-15
+Added Pin To Net: NetName=NetJ41_15 Pin=U16--54
+Added Net: Name=NetJ41_15
+Added Pin To Net: NetName=NetJ41_16 Pin=J41-16
+Added Pin To Net: NetName=NetJ41_16 Pin=U16--55
+Added Net: Name=NetJ41_16
+Added Pin To Net: NetName=NetJ41_17 Pin=J41-17
+Added Pin To Net: NetName=NetJ41_17 Pin=U16--53
+Added Net: Name=NetJ41_17
+Added Pin To Net: NetName=NetJ41_18 Pin=J41-18
+Added Pin To Net: NetName=NetJ41_18 Pin=U16--42
+Added Net: Name=NetJ41_18
+Added Pin To Net: NetName=NetJ41_19 Pin=J41-19
+Added Pin To Net: NetName=NetJ41_19 Pin=U16--41
+Added Net: Name=NetJ41_19
+Added Pin To Net: NetName=NetJ41_20 Pin=J41-20
+Added Pin To Net: NetName=NetJ41_20 Pin=U16--33
+Added Net: Name=NetJ41_20
+Added Pin To Net: NetName=NetJ41_21 Pin=J41-21
+Added Pin To Net: NetName=NetJ41_21 Pin=U16--80
+Added Net: Name=NetJ41_21
+Added Pin To Net: NetName=NetJ41_22 Pin=J41-22
+Added Pin To Net: NetName=NetJ41_22 Pin=U16--132
+Added Net: Name=NetJ41_22
+Added Pin To Net: NetName=NetJ41_23 Pin=J41-23
+Added Pin To Net: NetName=NetJ41_23 Pin=U16--157
+Added Net: Name=NetJ41_23
+Added Pin To Net: NetName=NetJ41_24 Pin=J41-24
+Added Pin To Net: NetName=NetJ41_24 Pin=U16--156
+Added Net: Name=NetJ41_24
+Added Pin To Net: NetName=NetJ41_27 Pin=J41-27
+Added Pin To Net: NetName=NetJ41_27 Pin=U16--94
+Added Net: Name=NetJ41_27
+Added Pin To Net: NetName=NetJ41_28 Pin=J41-28
+Added Pin To Net: NetName=NetJ41_28 Pin=U16--95
+Added Net: Name=NetJ41_28
+Added Pin To Net: NetName=NetJ41_29 Pin=J41-29
+Added Pin To Net: NetName=NetJ41_29 Pin=JP7-20
+Added Pin To Net: NetName=NetJ41_29 Pin=U16--165
+Added Net: Name=NetJ41_29
+Added Pin To Net: NetName=NetJ41_30 Pin=J41-30
+Added Pin To Net: NetName=NetJ41_30 Pin=JP7-18
+Added Pin To Net: NetName=NetJ41_30 Pin=U16--164
+Added Net: Name=NetJ41_30
+Added Pin To Net: NetName=NetJ41_31 Pin=J41-31
+Added Pin To Net: NetName=NetJ41_31 Pin=JP7-16
+Added Pin To Net: NetName=NetJ41_31 Pin=U16--176
+Added Net: Name=NetJ41_31
+Added Pin To Net: NetName=NetJ41_32 Pin=J41-32
+Added Pin To Net: NetName=NetJ41_32 Pin=JP7-17
+Added Pin To Net: NetName=NetJ41_32 Pin=U16--50
+Added Net: Name=NetJ41_32
+Added Pin To Net: NetName=NetJ41_33 Pin=J41-33
+Added Pin To Net: NetName=NetJ41_33 Pin=JP7-11
+Added Pin To Net: NetName=NetJ41_33 Pin=U16--174
+Added Net: Name=NetJ41_33
+Added Pin To Net: NetName=NetJ41_34 Pin=J41-34
+Added Pin To Net: NetName=NetJ41_34 Pin=JP7-14
+Added Pin To Net: NetName=NetJ41_34 Pin=U16--175
+Added Net: Name=NetJ41_34
+Added Pin To Net: NetName=NetJ41_35 Pin=J41-35
+Added Pin To Net: NetName=NetJ41_35 Pin=JP7-9
+Added Pin To Net: NetName=NetJ41_35 Pin=U16--52
+Added Net: Name=NetJ41_35
+Added Pin To Net: NetName=NetJ41_36 Pin=J41-36
+Added Pin To Net: NetName=NetJ41_36 Pin=JP7-12
+Added Pin To Net: NetName=NetJ41_36 Pin=U16--145
+Added Net: Name=NetJ41_36
+Added Pin To Net: NetName=NetJ41_37 Pin=J41-37
+Added Pin To Net: NetName=NetJ41_37 Pin=JP7-7
+Added Pin To Net: NetName=NetJ41_37 Pin=U16--119
+Added Net: Name=NetJ41_37
+Added Pin To Net: NetName=NetJ41_38 Pin=J41-38
+Added Pin To Net: NetName=NetJ41_38 Pin=JP7-10
+Added Pin To Net: NetName=NetJ41_38 Pin=U16--129
+Added Net: Name=NetJ41_38
+Added Pin To Net: NetName=NetJ41_39 Pin=J41-39
+Added Pin To Net: NetName=NetJ41_39 Pin=JP7-5
+Added Pin To Net: NetName=NetJ41_39 Pin=U16--106
+Added Net: Name=NetJ41_39
+Added Pin To Net: NetName=NetJ41_40 Pin=J41-40
+Added Pin To Net: NetName=NetJ41_40 Pin=JP7-8
+Added Pin To Net: NetName=NetJ41_40 Pin=U16--89
+Added Net: Name=NetJ41_40
+Added Pin To Net: NetName=NetJ41_41 Pin=J41-41
+Added Pin To Net: NetName=NetJ41_41 Pin=JP7-3
+Added Pin To Net: NetName=NetJ41_41 Pin=U16--107
+Added Net: Name=NetJ41_41
+Added Pin To Net: NetName=NetJ41_42 Pin=J41-42
+Added Pin To Net: NetName=NetJ41_42 Pin=JP7-6
+Added Pin To Net: NetName=NetJ41_42 Pin=U16--88
+Added Net: Name=NetJ41_42
+Added Pin To Net: NetName=NetJ41_43 Pin=J41-43
+Added Pin To Net: NetName=NetJ41_43 Pin=JP7-2
+Added Pin To Net: NetName=NetJ41_43 Pin=U16--86
+Added Net: Name=NetJ41_43
+Added Pin To Net: NetName=NetJ41_44 Pin=J41-44
+Added Pin To Net: NetName=NetJ41_44 Pin=JP7-4
+Added Pin To Net: NetName=NetJ41_44 Pin=U16--87
+Added Net: Name=NetJ41_44
+Added Pin To Net: NetName=NetJ41_45 Pin=J41-45
+Added Pin To Net: NetName=NetJ41_45 Pin=U16--2
+Added Net: Name=NetJ41_45
+Added Pin To Net: NetName=NetJ41_46 Pin=J41-46
+Added Pin To Net: NetName=NetJ41_46 Pin=U16--1
+Added Net: Name=NetJ41_46
+Added Pin To Net: NetName=NetJ41_47 Pin=J41-47
+Added Pin To Net: NetName=NetJ41_47 Pin=U16--79
+Added Net: Name=NetJ41_47
+Added Pin To Net: NetName=NetJ41_48 Pin=J41-48
+Added Pin To Net: NetName=NetJ41_48 Pin=U16--163
+Added Net: Name=NetJ41_48
+Added Pin To Net: NetName=NetJ41_49 Pin=J41-49
+Added Pin To Net: NetName=NetJ41_49 Pin=U16--7
+Added Net: Name=NetJ41_49
+Added Pin To Net: NetName=NetJ41_50 Pin=J41-50
+Added Pin To Net: NetName=NetJ41_50 Pin=U16--35
+Added Net: Name=NetJ41_50
+Added Pin To Net: NetName=NetJ41_51 Pin=J41-51
+Added Pin To Net: NetName=NetJ41_51 Pin=U6-4
+Added Pin To Net: NetName=NetJ41_51 Pin=U16--152
+Added Net: Name=NetJ41_51
+Added Pin To Net: NetName=NetJ41_52 Pin=J41-52
+Added Pin To Net: NetName=NetJ41_52 Pin=U16--93
+Added Net: Name=NetJ41_52
+Added Pin To Net: NetName=NetU16-_100 Pin=U16--100
+Added Net: Name=NetU16-_100
+Added Member To Class: ClassName=Sheet1 Member=Component J40 2X27PIN_DIP
+Added Member To Class: ClassName=Sheet1 Member=Component J41 2X27PIN_DIP

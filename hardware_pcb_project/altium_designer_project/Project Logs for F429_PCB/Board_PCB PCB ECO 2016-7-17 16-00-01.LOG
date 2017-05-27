@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC23_1 Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C56-1
+Removed Pin From Net: NetName=3V3 Pin=C56-2
+Removed Pin From Net: NetName=NetJ40_6 Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Pin From Net: NetName=3V3 Pin=R19-1
+Removed Pin From Net: NetName=NetC23_1 Pin=R19-2
+Change Component DesignItemId : Designator=C18 Old DesignItemId=C_0.1UF_0603 New DesignItemId=C_10UF_0603
+Change Component Comment : Designator=C18 Old Comment=C_0.1UF_0603 New Comment=C_10UF_0603
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=NetC23_1 Pin=C23-2
+Added Pin To Net: NetName=3V3 Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=NetJ40_6 Pin=R18-2
+Added Pin To Net: NetName=NetC23_1 Pin=R19-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetC23_2
